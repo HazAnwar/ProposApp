@@ -8,7 +8,7 @@ Additionally, using a `JavaScript Interface` in Android, we're able to trigger n
 
 The application is a bash-like terminal screen that automatically types in commands and gets commands output in a series of events (written with React/JavaScript) and eventually triggers a remote boot/trunk unlock via the unofficial Tesla API (written in Kotlin with the Volley library) which can be consealing a proposal message (or customised to anything else you may want)!
 
-<img src='./demo.gif' width='600' alt='demo'>
+<img src='./demo.gif' align='right' width='40%' alt='demo'>
 
 ## Web
 
