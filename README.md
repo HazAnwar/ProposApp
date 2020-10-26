@@ -1,6 +1,6 @@
 # ProposApp
 
-<img src='./demo.gif' align='right' width='35%' alt='demo'>
+<img src='./README.gif' align='right' width='35%' alt='demo'>
 
 This is a proposal React web app based off my customised [Create React App](https://github.com/HazAnwar/React-Boilerplate) that is wrapped inside of an Android Kotlin container using an Android `WebView`. 
 
